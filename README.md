@@ -1,6 +1,15 @@
 
 # QuickSlots+
 
+> [!Note]
+> This is a fork of the original mod made by [celvro](https://github.com/celvro), this is not an actively maintained repo but does contain changes to allow this mod to work on Nitrox without proper controller support.
+>
+> The mod may not work as expected while attempting to use a controller on this fork nor have I tested using a controller, but if you want to use keyboard and mouse from my testing it has worked perfectly.
+>
+> A release of the built files for this mod is avaliable in [releases](https://github.com/Soniczac7/QuickSlotsPlus-Nitrox/releases/latest).
+>
+> If an update is released to the original mod fixing this issue, I highly recommend using that version instead as this repo will not be maintained.
+
 A C# mod for Subnautica to add more slots.
 
 ## Features
